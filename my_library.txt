@@ -1,0 +1,68 @@
+Friends
+T
+Young and Beautiful
+S
+Sportscenter
+T
+The Imitation Game
+M
+The Dark Knight
+M
+Fresh Prince of Bel-air
+T
+Broken
+S
+How I Met Your Mother
+T
+A Beautiful Mind
+M
+Spongebob Squarepants
+T
+The Sopranos
+T
+Thor: Dark World
+M
+Night Changes
+S
+Breaking Bad
+T
+Rocky II
+M
+Gunslinger
+S
+Batman vs. Superman
+M
+Bleed It Out
+S
+The Godfather
+M
+The Avengers
+M
+Rocky I
+M
+Nightmare
+S
+Cloud Atlas
+M
+House of Cards
+T
+Captain America: The First Avenger
+M
+Hail to the King
+S
+Fast Five
+M
+Woke Up This Morning
+S
+
+
+Here are the statistics for the data structure: 
+Table size: 31
+Number of collisions: 10
+Maximum collision size: 2
+Number of occupied entries: 18
+Number of items: 28
+
+
+
+
